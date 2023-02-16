@@ -1,2 +1,2 @@
 # havanna-api
-Api build on nodejs for savanna-ui
+Api build on nodejs for havanna-ui
